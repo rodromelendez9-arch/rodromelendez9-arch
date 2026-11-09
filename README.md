@@ -10,13 +10,15 @@ Primero entiendo cómo opera el negocio y encuentro dónde pierde tiempo o diner
 
 ## Proyectos destacados
 
-| Proyecto | Problema que resuelve | Tecnología |
-|---|---|---|
-| [**Sianka**](https://landing-production-5c03.up.railway.app/proyectos/sianka) | Restaurantes que pierden pedidos por no contestar el teléfono. Una contestadora con IA atiende en español, toma el pedido y lo manda a un panel en vivo. | Python · FastAPI · Twilio · Deepgram · Claude · Supabase |
-| [**Mianca**](https://landing-production-5c03.up.railway.app/proyectos/mianca) | Quien vende maquinaria usada no sabe qué precio poner. Valuación con IA a partir de fotos y un anuncio listo para Mercado Libre. | Next.js · TypeScript · Supabase · Claude |
-| [**Constructora PMG**](https://landing-production-5c03.up.railway.app/proyectos/constructora-pmg) | Una constructora sin presencia en línea. Sitio con servicios, reservas en línea y tienda. | Wix Velo · JavaScript |
+| Proyecto | Problema que resuelve |
+|---|---|
+| [**Sianka**](https://landing-production-5c03.up.railway.app/proyectos/sianka) | Restaurantes que pierden pedidos por no contestar el teléfono. Una contestadora con IA atiende, toma el pedido y lo manda a la cocina al instante. |
+| [**Melenci**](https://landing-production-5c03.up.railway.app/proyectos/melenci) | Consultorios que llevan agenda y expedientes entre papel, Excel y WhatsApp. Sistema clínico en la nube con citas, recordatorios y expediente. |
+| [**Prospecta**](https://landing-production-5c03.up.railway.app/proyectos/prospecta) | Equipos de ventas que pierden horas buscando clientes uno por uno. Listas de prospectos por zona y giro, ordenadas por oportunidad. |
+| [**Mianca**](https://landing-production-5c03.up.railway.app/proyectos/mianca) | Quien vende maquinaria usada no sabe qué precio poner. Valuación con IA a partir de fotos y un anuncio listo para publicar. |
+| [**Constructora PMG**](https://landing-production-5c03.up.railway.app/proyectos/constructora-pmg) | Una constructora que dependía de llamadas. Sitio con servicios, reservas y pago en línea. |
 
-El código de estos proyectos es privado. Cada caso completo, con cómo funciona y qué incluye, está en mi [portafolio](https://landing-production-5c03.up.railway.app/#proyectos), junto con Melenci, Prospecta, Constructa y más.
+Cada caso completo está en mi [portafolio](https://landing-production-5c03.up.railway.app/#proyectos).
 
 ## Qué resuelvo
 
@@ -32,10 +34,6 @@ El código de estos proyectos es privado. Cada caso completo, con cómo funciona
 2. **Propuesta:** solución, alcance, tiempos y cotización clara.
 3. **Desarrollo:** construyo, pruebo contigo y entrego.
 4. **Soporte:** acompañamiento, mejoras y mantenimiento.
-
-## Tecnología
-
-Python · TypeScript · Next.js · React · FastAPI · Supabase · n8n · Make · Claude · OpenAI · WhatsApp API · Twilio · Deepgram · Vercel · Railway
 
 ## Contacto
 
