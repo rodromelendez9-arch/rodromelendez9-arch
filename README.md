@@ -8,15 +8,15 @@ Ayudo a negocios a dejar de perder clientes y horas en tareas a mano. Tus client
 
 Primero entiendo cómo opera el negocio y encuentro dónde pierde tiempo o dinero; después construyo una solución práctica y medible. Trabajas directo conmigo, de principio a fin.
 
-## Proyectos destacados
+## Problemas que ya resolví
 
-| Proyecto | Problema que resuelve |
+| Problema resuelto | Para quién |
 |---|---|
-| [**Sianka**](https://landing-production-5c03.up.railway.app/proyectos/sianka) | Restaurantes que pierden pedidos por no contestar el teléfono. Una contestadora con IA atiende, toma el pedido y lo manda a la cocina al instante. |
-| [**Melenci**](https://landing-production-5c03.up.railway.app/proyectos/melenci) | Consultorios que llevan agenda y expedientes entre papel, Excel y WhatsApp. Sistema clínico en la nube con citas, recordatorios y expediente. |
-| [**Prospecta**](https://landing-production-5c03.up.railway.app/proyectos/prospecta) | Equipos de ventas que pierden horas buscando clientes uno por uno. Listas de prospectos por zona y giro, ordenadas por oportunidad. |
-| [**Mianca**](https://landing-production-5c03.up.railway.app/proyectos/mianca) | Quien vende maquinaria usada no sabe qué precio poner. Valuación con IA a partir de fotos y un anuncio listo para publicar. |
-| [**Constructora PMG**](https://landing-production-5c03.up.railway.app/proyectos/constructora-pmg) | Una constructora que dependía de llamadas. Sitio con servicios, reservas y pago en línea. |
+| [**Ningún pedido perdido por no contestar el teléfono**](https://landing-production-5c03.up.railway.app/proyectos/pedidos-telefonicos-restaurantes) | Restaurantes y negocios de comida |
+| [**Agenda, expedientes y recordatorios del consultorio en un solo lugar**](https://landing-production-5c03.up.railway.app/proyectos/agenda-y-expediente-consultorio) | Consultorios médicos y dentales |
+| [**Saber a qué negocios venderles, sin buscarlos uno por uno**](https://landing-production-5c03.up.railway.app/proyectos/prospectos-por-zona-y-giro) | Equipos de ventas, agencias y freelancers |
+| [**Poner precio justo a maquinaria usada y publicarla lista para vender**](https://landing-production-5c03.up.railway.app/proyectos/precio-justo-maquinaria-usada) | Dealers y vendedores de equipo usado |
+| [**Que tus clientes reserven y paguen en línea, sin llamadas**](https://landing-production-5c03.up.railway.app/proyectos/reservas-y-pagos-en-linea) | Constructoras y negocios de servicios |
 
 Cada caso completo está en mi [portafolio](https://landing-production-5c03.up.railway.app/#proyectos).
 
