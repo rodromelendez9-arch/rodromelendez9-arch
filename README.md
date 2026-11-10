@@ -2,7 +2,7 @@
 
 **Software, automatización e IA para negocios locales** · Mérida, Yucatán, México
 
-**Sitio y portafolio:** [landing-production-5c03.up.railway.app](https://landing-production-5c03.up.railway.app)
+**Sitio y portafolio:** [landing-rodromelendez.up.railway.app](https://landing-rodromelendez.up.railway.app)
 
 Ayudo a negocios a dejar de perder clientes y horas en tareas a mano. Tus clientes reciben respuesta aunque estés ocupado, tus cotizaciones salen solas y tus herramientas por fin se hablan entre sí.
 
