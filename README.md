@@ -12,13 +12,13 @@ Primero entiendo cómo opera el negocio y encuentro dónde pierde tiempo o diner
 
 | Problema resuelto | Para quién |
 |---|---|
-| [**Ningún pedido perdido por no contestar el teléfono**](https://landing-production-5c03.up.railway.app/proyectos/pedidos-telefonicos-restaurantes) | Restaurantes y negocios de comida |
-| [**Agenda, expedientes y recordatorios del consultorio en un solo lugar**](https://landing-production-5c03.up.railway.app/proyectos/agenda-y-expediente-consultorio) | Consultorios médicos y dentales |
-| [**Saber a qué negocios venderles, sin buscarlos uno por uno**](https://landing-production-5c03.up.railway.app/proyectos/prospectos-por-zona-y-giro) | Equipos de ventas, agencias y freelancers |
-| [**Poner precio justo a maquinaria usada y publicarla lista para vender**](https://landing-production-5c03.up.railway.app/proyectos/precio-justo-maquinaria-usada) | Dealers y vendedores de equipo usado |
-| [**Que tus clientes reserven y paguen en línea, sin llamadas**](https://landing-production-5c03.up.railway.app/proyectos/reservas-y-pagos-en-linea) | Constructoras y negocios de servicios |
+| [**Ningún pedido perdido por no contestar el teléfono**](https://landing-rodromelendez.up.railway.app/proyectos/pedidos-telefonicos-restaurantes) | Restaurantes y negocios de comida |
+| [**Agenda, expedientes y recordatorios del consultorio en un solo lugar**](https://landing-rodromelendez.up.railway.app/proyectos/agenda-y-expediente-consultorio) | Consultorios médicos y dentales |
+| [**Saber a qué negocios venderles, sin buscarlos uno por uno**](https://landing-rodromelendez.up.railway.app/proyectos/prospectos-por-zona-y-giro) | Equipos de ventas, agencias y freelancers |
+| [**Poner precio justo a maquinaria usada y publicarla lista para vender**](https://landing-rodromelendez.up.railway.app/proyectos/precio-justo-maquinaria-usada) | Dealers y vendedores de equipo usado |
+| [**Que tus clientes reserven y paguen en línea, sin llamadas**](https://landing-rodromelendez.up.railway.app/proyectos/reservas-y-pagos-en-linea) | Constructoras y negocios de servicios |
 
-Cada caso completo está en mi [portafolio](https://landing-production-5c03.up.railway.app/#proyectos).
+Cada caso completo está en mi [portafolio](https://landing-rodromelendez.up.railway.app/#proyectos).
 
 ## Qué resuelvo
 
@@ -37,6 +37,6 @@ Cada caso completo está en mi [portafolio](https://landing-production-5c03.up.r
 
 ## Contacto
 
-- Sitio: https://landing-production-5c03.up.railway.app
+- Sitio: https://landing-rodromelendez.up.railway.app
 - Correo: rodromelendez9@gmail.com
 - Mérida, Yucatán · trabajo con negocios en todo México
